@@ -26,7 +26,7 @@ gcal-get-events takes an object that looks like
     }
 ```
 
-whitelist contains the fields that you would like returned. If whitelist is empty, all fields will be returned. Fields include:
+`whitelist` contains the fields that you would like returned. If `whitelist` is empty, all fields will be returned. Fields include:
 * created
 * creator
 * end
