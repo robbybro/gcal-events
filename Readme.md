@@ -1,4 +1,5 @@
 # GCal Events
+## API to get events from a given Google Calendar
 
 Define a secrets.js file that looks like
 ```
