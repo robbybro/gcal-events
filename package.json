@@ -1,7 +1,7 @@
 {
   "name": "gcal-get-events",
-  "version": "1.0.0",
-  "description": "React widget that populates Google Calendar events from a given calendar",
+  "version": "1.0.1",
+  "description": "API endpoint that returns google calendar events from a given calendar",
   "main": "index.js",
   "repository": "https://github.com/robbybro/gcal-react",
   "scripts": {
