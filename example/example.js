@@ -1,9 +1,9 @@
 'use strict';
 const port = 3000;
-const secrets = require('../secrets');
+const secrets = require('../src/secrets');
 const express = require('express');
 const app = express();
-const googleCal = require('../index.js')
+const googleCal = require('../src/gcalEvents.js')
 app.use(express.static(__dirname));
 
 app.get('/cal', function(req, res) {
