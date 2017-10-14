@@ -1,6 +1,6 @@
 {
   "name": "gcal-get-events",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "API endpoint that returns google calendar events from a given calendar",
   "main": "index.js",
   "repository": "https://github.com/robbybro/gcal-react",
